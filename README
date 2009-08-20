@@ -6,7 +6,7 @@ DataMap is a Ruby library that represents information in maps and generate them 
 
 You get the code by Git:
 
-	git clone gitosis@projects.safernet.org.br:data_map
+	git clone git://github.com/caiosba/DataMap.git
 
 Run the tests by:
 
