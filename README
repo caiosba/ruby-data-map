@@ -1,0 +1,45 @@
+= DataMap
+
+DataMap is a Ruby library that represents information in maps and generate them as lots of image types, using RMagick.
+
+= Instalation
+
+You get the code by Git:
+
+	git clone git://github.com/caiosba/DataMap.git
+
+Run the tests by:
+
+	ruby test/world_map_test.rb
+
+= Documentation
+
+The code is self documented.
+
+= Usage
+
+Don't forget to require data_map in the top of your Ruby file.
+
+= Example
+
+See example.rb to understand how this lib actually works.
+
+= License
+
+Take a look at MIT-LICENSE.
+
+= Dependencies
+
+DataMap depends on RMagick and Color.
+
+For Debian users, it's enough to get the following packages:
+libcolor-tools-ruby
+librmagick-ruby
+
+= Contact
+
+If you find any mistake in this documentation or bug in the plugin, please contact me at caiosba@gmail.com
+
+= Credits
+
+Copyright (c) 2009 Caio SBA <caiosba@gmail.com>
